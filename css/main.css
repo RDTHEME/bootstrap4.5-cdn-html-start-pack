@@ -1,0 +1,43 @@
+/***********************************/
+/*        DEFAULT CSS   START     */
+/*********************************/
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+a:hover {
+  text-decoration: none;
+}
+a:focus {
+  outline: 0 solid;
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+input:focus,
+button:focus,
+textarea:focus,
+a:focus {
+  outline: none;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+/***********************************/
+/*        DEFAULT CSS  END        */
+/*********************************/
